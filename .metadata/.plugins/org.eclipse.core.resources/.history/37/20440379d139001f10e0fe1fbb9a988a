@@ -1,0 +1,33 @@
+
+public class Variable {
+	public static void main(String[]args) {
+//		String name;  //variable Declration
+//		name = "한지민"; //Assignment
+//		String email = "aaa@aaa.com"; //initialization
+//		int su = 5; //2진수로 저장
+		
+//		System.out.printf("숫자 500 = %d\n", 500);
+//		System.out.printf("숫자 500 = %o\n", 500);
+//		System.out.printf("숫자 500 = %x\n", 500);
+//		short a = 5; //오류 안나는 이유 : 비트에서 앞에 0들을 쭉 자동 지워져서  128일때 8비트로 3바이트가 되서 오류남
+//		short b =7;
+//		short sum = 5 + 7;
+//		System.out.println(sum);
+		
+//		float f = 0.1234567890123456789f;
+//		double d = 0.1234567890123456789;
+//		System.out.println("f = " + f);
+//		System.out.println("d = " + d);
+		
+		
+		System.out.print('A');
+		System.out.print('B');
+		System.out.print('\n');
+		System.out.print('C');
+		System.out.print('D');
+		System.out.print('\b');
+		System.out.print('E');
+	}
+}
+
+

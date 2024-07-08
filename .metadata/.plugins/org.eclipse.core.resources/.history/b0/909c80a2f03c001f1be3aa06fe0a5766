@@ -1,0 +1,16 @@
+
+public class SunjukMgmt1 {
+
+	public static void main(String[] args) {
+		Student [] array = new Student[2]; //2명
+		java.util.Scanner sc = new java.util.Scanner(System.in);
+		for(int i = 0; i <2; i++) {
+			System.out.println("학번 : ");String hakbun = sc.next();
+			System.out.println("국어 : ");int kor = sc.nextInt();
+			System.out.println("영어 : ");int eng = sc.nextInt();
+			System.out.println("수학 : ");int math = sc.nextInt();
+			array[1].hakbun = hakbun;
+		}
+	}
+
+}

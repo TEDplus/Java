@@ -1,0 +1,11 @@
+
+public class OpDemo {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		short su = 5;
+		//short result = ~su;
+		int result = ~su;
+	}
+
+}

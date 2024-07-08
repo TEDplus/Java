@@ -1,0 +1,25 @@
+
+public class OpDemo {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		//short su = 5;
+		//short result = ~su;  //XXXX int가 들어가야됨
+		//int result = ~su;
+		
+		//short result = true ? 1970 : 3.14;
+		
+		int = X*60*60
+		int = Y
+		int sum = Z
+		sum = (X+Y)
+		java.util.Scanner sc = new java.util.Scanner(System.in);
+		System.int.print("Z:초는 X:시간 Y:초입니다.");
+		String second = sc.nextInt(); 
+		int  = Integer.parseInt(second);
+		
+		
+		
+	}
+
+}

@@ -1,0 +1,17 @@
+
+public class Student {
+
+	public static void main(String[] args) {
+		/*
+		hakbun; //Field, 속성(Attribute, Property, State)
+		kor;	
+		eng;
+		math;
+		tot;
+		avg;
+		grade;
+		*/
+		System.out.println();
+	}
+
+}

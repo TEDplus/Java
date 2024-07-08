@@ -1,0 +1,17 @@
+
+public class Student {
+
+	public static void main(String[] args) {
+		/*
+		학번; //Field, 속성(Attribute, property, State)
+		국어;
+		영어;
+		수학;
+		총점;
+		평균;
+		평점;
+		*/
+		System.out.println();
+	}
+
+}

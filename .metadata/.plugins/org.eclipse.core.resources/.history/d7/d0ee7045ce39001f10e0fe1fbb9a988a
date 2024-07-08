@@ -1,0 +1,13 @@
+
+public class Variable {
+	public static void main(String[]args) {
+//		String name;  //variable Declration
+//		name = "한지민"; //Assignment
+//		String email = "aaa@aaa.com"; //initialization
+//		int su = 5; //2진수로 저장
+		
+		System.out.printf
+	}
+}
+
+

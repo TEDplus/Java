@@ -1,0 +1,13 @@
+
+public class ArrayDemo {
+
+	public static void main(String[] args) {
+		int [] age; //declaration
+		age = new int[4]; //creation
+		
+		age = 28; //assignment
+		string name = "한지민"; //initialization 초기화
+		
+	}
+
+}

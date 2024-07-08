@@ -1,0 +1,17 @@
+
+public class Test_02 {
+
+	public static void main(String[] args) {
+		int count = 0, line =1;
+		for(int i = 65 ; i<=90 ; i++) {
+			if(count % 3 == 0 ) {
+				System.out.println();
+			}
+			else System.out.print((char)(i) + "\t"); //대문자 출력
+			count++;
+			
+		}
+	
+	}
+
+}

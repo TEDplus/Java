@@ -1,0 +1,17 @@
+
+public class SunjukMgmt1 {
+
+	public static void main(String[] args) {
+		Student [] array = new Student[2]; //들어갈 공간을 만든거2명
+		//학생은 아직 안만듬
+		java.util.Scanner sc = new java.util.Scanner(System.in);
+		for(int i = 0; i < 2; i++) {
+			System.out.print("학번 : "); String hakbun = sc.next();
+			System.out.print("국어 : "); int kor = sc.nextInt(); //학생만들기시작
+			System.out.print("영어 : "); int eng = sc.nextInt();
+			System.out.print("수학 : "); int math = sc.nextInt();
+			array[i].hakbun = hakbun;
+		}
+	}
+
+}

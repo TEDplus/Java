@@ -1,0 +1,16 @@
+
+public class NestedLoopDemo {
+
+	public static void main(String[] args) {
+		
+		int i = 1; //i초기화
+		while(i <= 9) { //i조건
+			//System.out.printf("%d X %d = %d%n", dan, i, dan * i);
+			int dan = 2; //초기화 
+			System.out.println(dan + "X" + i + " = " + dan * i);
+			i++;
+		}
+		
+	}
+
+}

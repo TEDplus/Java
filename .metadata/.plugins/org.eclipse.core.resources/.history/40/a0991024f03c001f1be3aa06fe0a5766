@@ -1,0 +1,9 @@
+
+public class SunjukMgmt1 {
+
+	public static void main(String[] args) {
+		Student [] array = new Student[2]; //2명
+		
+	}
+
+}
